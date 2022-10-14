@@ -29,6 +29,7 @@ body
     {
         filter: hue-rotate(360deg);
     }
+    
 }
 .loader ::before
 {
